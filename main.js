@@ -1,7 +1,7 @@
 onload = () => {
   document.body.classList.remove("not-loaded");
 
-  const text = "Ikan Sepat Lagi Nyebat LOVE U Manis";
+  const text = "Ikan Sepat Lagi Nyebat, LOVE U Manis";
   const titleElement = document.getElementById('title');
   const cursor = document.getElementById('cursor');
   let index = 0;
